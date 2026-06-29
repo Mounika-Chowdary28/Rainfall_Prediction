@@ -195,7 +195,23 @@ If automatic detection fails, manual coordinate input is requested.
 
 ## 👩‍💻 Author
 **Mounika Chowdary**  
-B.Tech – Computer Science and Engineering (Big Data Analytics)  
+B.Tech – Computer Science and Engineering 
+SRM University AP
+
+**Pavithra Pamula**  
+B.Tech – Computer Science and Engineering  
+SRM University AP  
+
+**Akhila Chirumamilla**  
+B.Tech – Computer Science and Engineering  
+SRM University AP  
+
+**Asritha Asireddy**  
+B.Tech – Computer Science and Engineering 
+SRM University AP  
+
+**K Kavya**  
+B.Tech – Computer Science and Engineering  
 SRM University AP  
 
 ---
